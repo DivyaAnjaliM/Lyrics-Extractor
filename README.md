@@ -1,2 +1,2 @@
-#ABSTRACT
+# ABSTRACT
 The "Song Lyrics Extractor" is a user-friendly Graphical User Interface (GUI) application built using Python's tkinter library. This application allows users to easily retrieve lyrics for a specific song by providing the artist's name and song title. It integrates with the Genius API to fetch accurate and comprehensive lyrics. The intuitive interface includes input fields for artist and song, a "Get Lyrics" button to fetch the lyrics, a text area to display the lyrics, and an option to download the lyrics as a text file. The application enhances user experience through error handling and informative message prompts. It's a handy tool for music enthusiasts and researchers alike.
